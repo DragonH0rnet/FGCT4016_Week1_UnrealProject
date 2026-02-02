@@ -1,0 +1,14 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "c:\\users\\2403782\\documents\\unreal projects\\fgct4016_week1_task1\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\fgct4016_week1_task1\\permoduleinline.gen.cpp",
+        "ProvidedModule": "",
+        "PCH": "c:\\users\\2403782\\documents\\unreal projects\\fgct4016_week1_task1\\intermediate\\build\\win64\\x64\\fgct4016_week1_task1editor\\development\\unrealed\\sharedpch.unrealed.project.valapi.valexpapi.cpp20.h.pch",
+        "Includes": [
+            "c:\\users\\2403782\\documents\\unreal projects\\fgct4016_week1_task1\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\fgct4016_week1_task1\\definitions.fgct4016_week1_task1.h",
+            "c:\\program files\\epic games\\5.6\\engine\\source\\runtime\\core\\public\\hal\\permoduleinline.inl"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

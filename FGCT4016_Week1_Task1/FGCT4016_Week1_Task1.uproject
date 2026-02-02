@@ -1,0 +1,22 @@
+{
+	"FileVersion": 3,
+	"EngineAssociation": "{8F0D34DC-4464-66B4-BDC1-E9A081276920}",
+	"Category": "",
+	"Description": "",
+	"Modules": [
+		{
+			"Name": "FGCT4016_Week1_Task1",
+			"Type": "Runtime",
+			"LoadingPhase": "Default"
+		}
+	],
+	"Plugins": [
+		{
+			"Name": "ModelingToolsEditorMode",
+			"Enabled": true,
+			"TargetAllowList": [
+				"Editor"
+			]
+		}
+	]
+}

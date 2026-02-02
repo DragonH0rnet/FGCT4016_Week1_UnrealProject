@@ -1,0 +1,14 @@
+{
+	"Targets": [
+		{
+			"Name": "FGCT4016_Week1_Task1",
+			"Path": "..\\Source\\FGCT4016_Week1_Task1.Target.cs",
+			"Type": "Game"
+		},
+		{
+			"Name": "FGCT4016_Week1_Task1Editor",
+			"Path": "..\\Source\\FGCT4016_Week1_Task1Editor.Target.cs",
+			"Type": "Editor"
+		}
+	]
+}

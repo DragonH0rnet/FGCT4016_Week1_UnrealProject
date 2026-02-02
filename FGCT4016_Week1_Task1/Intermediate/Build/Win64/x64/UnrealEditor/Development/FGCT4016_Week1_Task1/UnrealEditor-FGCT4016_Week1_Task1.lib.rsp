@@ -1,0 +1,13 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UnrealEditor-FGCT4016_Week1_Task1.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"C:/Users/2403782/Documents/Unreal Projects/FGCT4016_Week1_Task1/Intermediate/Build/Win64/x64/FGCT4016_Week1_Task1Editor/Development/UnrealEd/SharedPCH.UnrealEd.Project.ValApi.ValExpApi.Cpp20.h.obj"
+"C:/Users/2403782/Documents/Unreal Projects/FGCT4016_Week1_Task1/Intermediate/Build/Win64/x64/UnrealEditor/Development/FGCT4016_Week1_Task1/FGCT4016_Week1_Task1.cpp.obj"
+"C:/Users/2403782/Documents/Unreal Projects/FGCT4016_Week1_Task1/Intermediate/Build/Win64/x64/UnrealEditor/Development/FGCT4016_Week1_Task1/PerModuleInline.gen.cpp.obj"
+"C:/Users/2403782/Documents/Unreal Projects/FGCT4016_Week1_Task1/Intermediate/Build/Win64/x64/UnrealEditor/Development/FGCT4016_Week1_Task1/Default.rc2.res"
+/OUT:"C:/Users/2403782/Documents/Unreal Projects/FGCT4016_Week1_Task1/Intermediate/Build/Win64/x64/UnrealEditor/Development/FGCT4016_Week1_Task1/UnrealEditor-FGCT4016_Week1_Task1.lib"
