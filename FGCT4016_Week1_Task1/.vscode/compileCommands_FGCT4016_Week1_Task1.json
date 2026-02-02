@@ -1,0 +1,42 @@
+[
+	{
+		"file": "C:\\Users\\2403782\\Documents\\GitHub\\FGCT4016_Week1_UnrealProject\\FGCT4016_Week1_Task1\\Source\\FGCT4016_Week1_Task1\\FGCT4016_Week1_Task1.Build.cs",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.38.33130\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Users\\2403782\\Documents\\GitHub\\FGCT4016_Week1_UnrealProject\\FGCT4016_Week1_Task1\\.vscode\\compileCommands_FGCT4016_Week1_Task1\\FGCT4016_Week1_Task1.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\5.6\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\2403782\\Documents\\GitHub\\FGCT4016_Week1_UnrealProject\\FGCT4016_Week1_Task1\\Source\\FGCT4016_Week1_Task1\\FGCT4016_Week1_Task1.cpp",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.38.33130\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Users\\2403782\\Documents\\GitHub\\FGCT4016_Week1_UnrealProject\\FGCT4016_Week1_Task1\\.vscode\\compileCommands_FGCT4016_Week1_Task1\\FGCT4016_Week1_Task1.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\5.6\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\2403782\\Documents\\GitHub\\FGCT4016_Week1_UnrealProject\\FGCT4016_Week1_Task1\\Source\\FGCT4016_Week1_Task1\\FGCT4016_Week1_Task1.h",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.38.33130\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Users\\2403782\\Documents\\GitHub\\FGCT4016_Week1_UnrealProject\\FGCT4016_Week1_Task1\\.vscode\\compileCommands_FGCT4016_Week1_Task1\\FGCT4016_Week1_Task1.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\5.6\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\2403782\\Documents\\GitHub\\FGCT4016_Week1_UnrealProject\\FGCT4016_Week1_Task1\\Source\\FGCT4016_Week1_Task1\\Private\\TestActor.cpp",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.38.33130\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Users\\2403782\\Documents\\GitHub\\FGCT4016_Week1_UnrealProject\\FGCT4016_Week1_Task1\\.vscode\\compileCommands_FGCT4016_Week1_Task1\\FGCT4016_Week1_Task1.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\5.6\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\2403782\\Documents\\GitHub\\FGCT4016_Week1_UnrealProject\\FGCT4016_Week1_Task1\\Source\\FGCT4016_Week1_Task1\\Public\\TestActor.h",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.38.33130\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Users\\2403782\\Documents\\GitHub\\FGCT4016_Week1_UnrealProject\\FGCT4016_Week1_Task1\\.vscode\\compileCommands_FGCT4016_Week1_Task1\\FGCT4016_Week1_Task1.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\5.6\\Engine\\Source"
+	}
+]

@@ -1,5 +1,9 @@
 {
 	"RemapUnityFiles": 
 	{
+		"Module.FGCT4016_Week1_Task1.gen.cpp.obj": [
+			"FGCT4016_Week1_Task1.init.gen.cpp.obj",
+			"TestActor.gen.cpp.obj"
+		]
 	}
 }

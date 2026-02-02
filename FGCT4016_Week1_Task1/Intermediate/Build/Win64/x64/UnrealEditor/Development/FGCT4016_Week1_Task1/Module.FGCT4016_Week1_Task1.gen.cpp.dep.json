@@ -1,0 +1,17 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "c:\\users\\2403782\\documents\\github\\fgct4016_week1_unrealproject\\fgct4016_week1_task1\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\fgct4016_week1_task1\\module.fgct4016_week1_task1.gen.cpp",
+        "ProvidedModule": "",
+        "PCH": "c:\\users\\2403782\\documents\\github\\fgct4016_week1_unrealproject\\fgct4016_week1_task1\\intermediate\\build\\win64\\x64\\fgct4016_week1_task1editor\\development\\unrealed\\sharedpch.unrealed.project.valapi.valexpapi.cpp20.h.pch",
+        "Includes": [
+            "c:\\users\\2403782\\documents\\github\\fgct4016_week1_unrealproject\\fgct4016_week1_task1\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\fgct4016_week1_task1\\definitions.fgct4016_week1_task1.h",
+            "c:\\users\\2403782\\documents\\github\\fgct4016_week1_unrealproject\\fgct4016_week1_task1\\intermediate\\build\\win64\\unrealeditor\\inc\\fgct4016_week1_task1\\uht\\fgct4016_week1_task1.init.gen.cpp",
+            "c:\\users\\2403782\\documents\\github\\fgct4016_week1_unrealproject\\fgct4016_week1_task1\\intermediate\\build\\win64\\unrealeditor\\inc\\fgct4016_week1_task1\\uht\\testactor.gen.cpp",
+            "c:\\users\\2403782\\documents\\github\\fgct4016_week1_unrealproject\\fgct4016_week1_task1\\source\\fgct4016_week1_task1\\public\\testactor.h",
+            "c:\\users\\2403782\\documents\\github\\fgct4016_week1_unrealproject\\fgct4016_week1_task1\\intermediate\\build\\win64\\unrealeditor\\inc\\fgct4016_week1_task1\\uht\\testactor.generated.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

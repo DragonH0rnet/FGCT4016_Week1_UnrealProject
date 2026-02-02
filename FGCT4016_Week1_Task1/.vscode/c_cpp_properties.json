@@ -1,0 +1,30 @@
+{
+    "configurations": [
+        {
+            "name": "FGCT4016_Week1_Task1Editor Editor Win64 Development (FGCT4016_Week1_Task1)",
+            "compilerPath": "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.38.33130\\bin\\Hostx64\\x64\\cl.exe",
+            "cStandard": "c17",
+            "cppStandard": "c++20",
+            "includePath": [ 
+                "${workspaceFolder}\\Intermediate\\**", 
+                "${workspaceFolder}\\Plugins\\**", 
+                "${workspaceFolder}\\Source\\**" 
+            ],
+            "intelliSenseMode": "msvc-x64",
+            "compileCommands": [
+                "C:\\Users\\2403782\\Documents\\GitHub\\FGCT4016_Week1_UnrealProject\\FGCT4016_Week1_Task1\\.vscode\\compileCommands_FGCT4016_Week1_Task1.json"
+            ]
+        },
+        {
+            "name": "Win32",
+            "compilerPath": "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.38.33130\\bin\\Hostx64\\x64\\cl.exe",
+            "cStandard": "c17",
+            "cppStandard": "c++20",
+            "intelliSenseMode": "msvc-x64",
+            "compileCommands": [
+                "C:\\Users\\2403782\\Documents\\GitHub\\FGCT4016_Week1_UnrealProject\\FGCT4016_Week1_Task1\\.vscode\\compileCommands_Default.json"
+            ]
+        }
+    ],
+    "version": 4
+}

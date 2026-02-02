@@ -36,13 +36,15 @@
 /FUNCTIONPADMIN:6
 /NOIMPLIB
 /NOEXP
-"C:/Users/2403782/Documents/Unreal Projects/FGCT4016_Week1_Task1/Intermediate/Build/Win64/x64/FGCT4016_Week1_Task1Editor/Development/UnrealEd/SharedPCH.UnrealEd.Project.ValApi.ValExpApi.Cpp20.h.obj"
-"C:/Users/2403782/Documents/Unreal Projects/FGCT4016_Week1_Task1/Intermediate/Build/Win64/x64/UnrealEditor/Development/FGCT4016_Week1_Task1/FGCT4016_Week1_Task1.cpp.obj"
-"C:/Users/2403782/Documents/Unreal Projects/FGCT4016_Week1_Task1/Intermediate/Build/Win64/x64/UnrealEditor/Development/FGCT4016_Week1_Task1/PerModuleInline.gen.cpp.obj"
-"C:/Users/2403782/Documents/Unreal Projects/FGCT4016_Week1_Task1/Intermediate/Build/Win64/x64/UnrealEditor/Development/FGCT4016_Week1_Task1/Default.rc2.res"
+"C:/Users/2403782/Documents/GitHub/FGCT4016_Week1_UnrealProject/FGCT4016_Week1_Task1/Intermediate/Build/Win64/x64/FGCT4016_Week1_Task1Editor/Development/UnrealEd/SharedPCH.UnrealEd.Project.ValApi.ValExpApi.Cpp20.h.obj"
+"C:/Users/2403782/Documents/GitHub/FGCT4016_Week1_UnrealProject/FGCT4016_Week1_Task1/Intermediate/Build/Win64/x64/UnrealEditor/Development/FGCT4016_Week1_Task1/Module.FGCT4016_Week1_Task1.gen.cpp.obj"
+"C:/Users/2403782/Documents/GitHub/FGCT4016_Week1_UnrealProject/FGCT4016_Week1_Task1/Intermediate/Build/Win64/x64/UnrealEditor/Development/FGCT4016_Week1_Task1/FGCT4016_Week1_Task1.cpp.obj"
+"C:/Users/2403782/Documents/GitHub/FGCT4016_Week1_UnrealProject/FGCT4016_Week1_Task1/Intermediate/Build/Win64/x64/UnrealEditor/Development/FGCT4016_Week1_Task1/PerModuleInline.gen.cpp.obj"
+"C:/Users/2403782/Documents/GitHub/FGCT4016_Week1_UnrealProject/FGCT4016_Week1_Task1/Intermediate/Build/Win64/x64/UnrealEditor/Development/FGCT4016_Week1_Task1/TestActor.cpp.obj"
+"C:/Users/2403782/Documents/GitHub/FGCT4016_Week1_UnrealProject/FGCT4016_Week1_Task1/Intermediate/Build/Win64/x64/UnrealEditor/Development/FGCT4016_Week1_Task1/Default.rc2.res"
+"../Intermediate/Build/Win64/x64/UnrealEditor/Development/Engine/UnrealEditor-Engine.lib"
 "../Intermediate/Build/Win64/x64/UnrealEditor/Development/Core/UnrealEditor-Core.lib"
 "../Intermediate/Build/Win64/x64/UnrealEditor/Development/CoreUObject/UnrealEditor-CoreUObject.lib"
-"../Intermediate/Build/Win64/x64/UnrealEditor/Development/Engine/UnrealEditor-Engine.lib"
 "../Intermediate/Build/Win64/x64/UnrealEditor/Development/InputCore/UnrealEditor-InputCore.lib"
 "../Plugins/EnhancedInput/Intermediate/Build/Win64/x64/UnrealEditor/Development/EnhancedInput/UnrealEditor-EnhancedInput.lib"
 "delayimp.lib"
@@ -70,6 +72,6 @@
 "synchronization.lib"
 "dwmapi.lib"
 "imm32.lib"
-/OUT:"C:/Users/2403782/Documents/Unreal Projects/FGCT4016_Week1_Task1/Binaries/Win64/UnrealEditor-FGCT4016_Week1_Task1.dll"
-/PDB:"C:/Users/2403782/Documents/Unreal Projects/FGCT4016_Week1_Task1/Binaries/Win64/UnrealEditor-FGCT4016_Week1_Task1.pdb"
+/OUT:"C:/Users/2403782/Documents/GitHub/FGCT4016_Week1_UnrealProject/FGCT4016_Week1_Task1/Binaries/Win64/UnrealEditor-FGCT4016_Week1_Task1.dll"
+/PDB:"C:/Users/2403782/Documents/GitHub/FGCT4016_Week1_UnrealProject/FGCT4016_Week1_Task1/Binaries/Win64/UnrealEditor-FGCT4016_Week1_Task1.pdb"
 /ignore:4078

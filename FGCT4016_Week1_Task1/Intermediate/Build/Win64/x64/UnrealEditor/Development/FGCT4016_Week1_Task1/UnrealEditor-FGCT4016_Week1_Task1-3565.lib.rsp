@@ -1,0 +1,15 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UnrealEditor-FGCT4016_Week1_Task1-3565.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"C:/Users/2403782/Documents/GitHub/FGCT4016_Week1_UnrealProject/FGCT4016_Week1_Task1/Intermediate/Build/Win64/x64/FGCT4016_Week1_Task1Editor/Development/UnrealEd/SharedPCH.UnrealEd.Project.ValApi.ValExpApi.Cpp20.h.obj"
+"C:/Users/2403782/Documents/GitHub/FGCT4016_Week1_UnrealProject/FGCT4016_Week1_Task1/Intermediate/Build/Win64/x64/UnrealEditor/Development/FGCT4016_Week1_Task1/Module.FGCT4016_Week1_Task1.gen.cpp.obj"
+"C:/Users/2403782/Documents/GitHub/FGCT4016_Week1_UnrealProject/FGCT4016_Week1_Task1/Intermediate/Build/Win64/x64/UnrealEditor/Development/FGCT4016_Week1_Task1/FGCT4016_Week1_Task1.cpp.obj"
+"C:/Users/2403782/Documents/GitHub/FGCT4016_Week1_UnrealProject/FGCT4016_Week1_Task1/Intermediate/Build/Win64/x64/UnrealEditor/Development/FGCT4016_Week1_Task1/PerModuleInline.gen.cpp.obj"
+"C:/Users/2403782/Documents/GitHub/FGCT4016_Week1_UnrealProject/FGCT4016_Week1_Task1/Intermediate/Build/Win64/x64/UnrealEditor/Development/FGCT4016_Week1_Task1/TestActor.cpp.obj"
+"C:/Users/2403782/Documents/GitHub/FGCT4016_Week1_UnrealProject/FGCT4016_Week1_Task1/Intermediate/Build/Win64/x64/UnrealEditor/Development/FGCT4016_Week1_Task1/Default.rc2.res"
+/OUT:"C:/Users/2403782/Documents/GitHub/FGCT4016_Week1_UnrealProject/FGCT4016_Week1_Task1/Intermediate/Build/Win64/x64/UnrealEditor/Development/FGCT4016_Week1_Task1/UnrealEditor-FGCT4016_Week1_Task1-3565.lib"

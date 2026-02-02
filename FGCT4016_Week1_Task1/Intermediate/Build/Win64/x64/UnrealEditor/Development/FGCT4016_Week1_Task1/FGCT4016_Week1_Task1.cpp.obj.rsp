@@ -1,12 +1,12 @@
-"C:/Users/2403782/Documents/Unreal Projects/FGCT4016_Week1_Task1/Source/FGCT4016_Week1_Task1/FGCT4016_Week1_Task1.cpp"
-@"C:/Users/2403782/Documents/Unreal Projects/FGCT4016_Week1_Task1/Intermediate/Build/Win64/x64/UnrealEditor/Development/FGCT4016_Week1_Task1/FGCT4016_Week1_Task1.Shared.rsp"
-/FI"C:/Users/2403782/Documents/Unreal Projects/FGCT4016_Week1_Task1/Intermediate/Build/Win64/x64/FGCT4016_Week1_Task1Editor/Development/UnrealEd/SharedPCH.UnrealEd.Project.ValApi.ValExpApi.Cpp20.h"
-/FI"C:/Users/2403782/Documents/Unreal Projects/FGCT4016_Week1_Task1/Intermediate/Build/Win64/x64/UnrealEditor/Development/FGCT4016_Week1_Task1/Definitions.FGCT4016_Week1_Task1.h"
-/Yu"C:/Users/2403782/Documents/Unreal Projects/FGCT4016_Week1_Task1/Intermediate/Build/Win64/x64/FGCT4016_Week1_Task1Editor/Development/UnrealEd/SharedPCH.UnrealEd.Project.ValApi.ValExpApi.Cpp20.h"
-/Fp"C:/Users/2403782/Documents/Unreal Projects/FGCT4016_Week1_Task1/Intermediate/Build/Win64/x64/FGCT4016_Week1_Task1Editor/Development/UnrealEd/SharedPCH.UnrealEd.Project.ValApi.ValExpApi.Cpp20.h.pch"
-/Fo"C:/Users/2403782/Documents/Unreal Projects/FGCT4016_Week1_Task1/Intermediate/Build/Win64/x64/UnrealEditor/Development/FGCT4016_Week1_Task1/FGCT4016_Week1_Task1.cpp.obj"
-/experimental:log "C:/Users/2403782/Documents/Unreal Projects/FGCT4016_Week1_Task1/Intermediate/Build/Win64/x64/UnrealEditor/Development/FGCT4016_Week1_Task1/FGCT4016_Week1_Task1.cpp.sarif"
-/sourceDependencies "C:/Users/2403782/Documents/Unreal Projects/FGCT4016_Week1_Task1/Intermediate/Build/Win64/x64/UnrealEditor/Development/FGCT4016_Week1_Task1/FGCT4016_Week1_Task1.cpp.dep.json"
+"C:/Users/2403782/Documents/GitHub/FGCT4016_Week1_UnrealProject/FGCT4016_Week1_Task1/Source/FGCT4016_Week1_Task1/FGCT4016_Week1_Task1.cpp"
+@"C:/Users/2403782/Documents/GitHub/FGCT4016_Week1_UnrealProject/FGCT4016_Week1_Task1/Intermediate/Build/Win64/x64/UnrealEditor/Development/FGCT4016_Week1_Task1/FGCT4016_Week1_Task1.Shared.rsp"
+/FI"C:/Users/2403782/Documents/GitHub/FGCT4016_Week1_UnrealProject/FGCT4016_Week1_Task1/Intermediate/Build/Win64/x64/FGCT4016_Week1_Task1Editor/Development/UnrealEd/SharedPCH.UnrealEd.Project.ValApi.ValExpApi.Cpp20.h"
+/FI"C:/Users/2403782/Documents/GitHub/FGCT4016_Week1_UnrealProject/FGCT4016_Week1_Task1/Intermediate/Build/Win64/x64/UnrealEditor/Development/FGCT4016_Week1_Task1/Definitions.FGCT4016_Week1_Task1.h"
+/Yu"C:/Users/2403782/Documents/GitHub/FGCT4016_Week1_UnrealProject/FGCT4016_Week1_Task1/Intermediate/Build/Win64/x64/FGCT4016_Week1_Task1Editor/Development/UnrealEd/SharedPCH.UnrealEd.Project.ValApi.ValExpApi.Cpp20.h"
+/Fp"C:/Users/2403782/Documents/GitHub/FGCT4016_Week1_UnrealProject/FGCT4016_Week1_Task1/Intermediate/Build/Win64/x64/FGCT4016_Week1_Task1Editor/Development/UnrealEd/SharedPCH.UnrealEd.Project.ValApi.ValExpApi.Cpp20.h.pch"
+/Fo"C:/Users/2403782/Documents/GitHub/FGCT4016_Week1_UnrealProject/FGCT4016_Week1_Task1/Intermediate/Build/Win64/x64/UnrealEditor/Development/FGCT4016_Week1_Task1/FGCT4016_Week1_Task1.cpp.obj"
+/experimental:log "C:/Users/2403782/Documents/GitHub/FGCT4016_Week1_UnrealProject/FGCT4016_Week1_Task1/Intermediate/Build/Win64/x64/UnrealEditor/Development/FGCT4016_Week1_Task1/FGCT4016_Week1_Task1.cpp.sarif"
+/sourceDependencies "C:/Users/2403782/Documents/GitHub/FGCT4016_Week1_UnrealProject/FGCT4016_Week1_Task1/Intermediate/Build/Win64/x64/UnrealEditor/Development/FGCT4016_Week1_Task1/FGCT4016_Week1_Task1.cpp.dep.json"
 /d2ssa-cfg-question-
 /Zc:inline
 /nologo

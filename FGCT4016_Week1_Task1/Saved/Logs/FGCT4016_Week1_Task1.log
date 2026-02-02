@@ -1157,3 +1157,215 @@ LogConfig: Set CVar [[r.VRS.ContrastAdaptiveShading:1]]
 [2026.02.02-11.00.56:258][  8]LogEOSSDK: LogEOS: SDK Config Product Update Request Successful, Time: 8.466218
 [2026.02.02-11.00.56:260][  8]LogEOSSDK: LogEOS: SDK Config Data - Watermark: 1164040915
 [2026.02.02-11.00.56:260][  8]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 8.466218, Update Interval: 316.705231
+[2026.02.02-11.01.00:539][ 24]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_0
+[2026.02.02-11.01.02:371][ 52]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_1
+[2026.02.02-11.02.33:166][449]LogDerivedDataCache: C:/Users/2403782/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:00.000 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 0 files in 1 folders with total size 0 MiB.
+[2026.02.02-11.06.12:644][347]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 325.189423
+[2026.02.02-11.06.12:803][366]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.02.02-11.06.12:803][366]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 325.338898, Update Interval: 307.895752
+[2026.02.02-11.06.41:543][773]LogSlate: Took 0.004667 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2026.02.02-11.06.55:640][387]LogSlate: Window 'Stall Log' being destroyed
+[2026.02.02-11.06.55:645][387]LogSlate: Window 'Stall Log' being destroyed
+[2026.02.02-11.07.17:324][942]LogLiveCoding: Display: Console will be hidden but remain running in the background. Restart to disable completely.
+[2026.02.02-11.07.39:381][524]LogHotReload: Recompiling module FGCT4016_Week1_Task1...
+[2026.02.02-11.07.39:381][524]LogStreaming: Display: FlushAsyncLoading(474): 1 QueuedPackages, 0 AsyncPackages
+[2026.02.02-11.07.39:386][524]LogAudioDerivedData: Display: Building compressed audio format BINKA hash BINKA_SCVER_5028_R4DV_false_SR0_48000.000000_SR1_32000.000000_SR2_24000.000000_SR3_12000.000000_SR4_8000.000000_QMOD_1.000000_CQLT_-1_ASTH_0.000000_INLC_false_LCK1_0.000000_CSZE_65536_LCF_false_ZCS_256_MCSO_0_END wave CompileSuccess...
+[2026.02.02-11.07.39:389][524]LogAudioDerivedData: Display: CompileSuccess compressed to 14.13% (from 93KB to 13KB) with BINKA at Quality 80 with Quality Modifier 1.00
+[2026.02.02-11.07.39:390][524]LogAudio: Display: Chunk stats for (SoundWave /Engine/EditorSounds/Notifications/CompileSuccess.CompileSuccess: Duration=0.50 secs, Channels=2), Settings(FirstChunkSize=4294967295 frames, InlineFirst=false, MaxChunkSize=262144), Chunks=2, Chunk0=28 bytes, Chunk1=13553 bytes, ChunkN=0)
+[2026.02.02-11.07.39:394][524]Candidate modules for hot reload:
+[2026.02.02-11.07.39:394][524]  FGCT4016_Week1_Task1
+[2026.02.02-11.07.39:401][524]Launching UnrealBuildTool... [C:/Program Files/Epic Games/5.6/Engine/Build/BatchFiles/Build.bat  -ModuleWithSuffix=FGCT4016_Week1_Task1,3565 FGCT4016_Week1_Task1Editor Win64 Development -Project="C:/Users/2403782/Documents/GitHub/FGCT4016_Week1_UnrealProject/FGCT4016_Week1_Task1/FGCT4016_Week1_Task1.uproject" "C:/Users/2403782/Documents/GitHub/FGCT4016_Week1_UnrealProject/FGCT4016_Week1_Task1/FGCT4016_Week1_Task1.uproject"  -IgnoreJunk]
+[2026.02.02-11.08.21:041][524]Using bundled DotNet SDK version: 8.0.300 win-x64
+Running UnrealBuildTool: dotnet "..\..\Engine\Binaries\DotNET\UnrealBuildTool\UnrealBuildTool.dll" -ModuleWithSuffix=FGCT4016_Week1_Task1,3565 FGCT4016_Week1_Task1Editor Win64 Development -Project="C:/Users/2403782/Documents/GitHub/FGCT4016_Week1_UnrealProject/FGCT4016_Week1_Task1/FGCT4016_Week1_Task1.uproject" "C:/Users/2403782/Documents/GitHub/FGCT4016_Week1_UnrealProject/FGCT4016_Week1_Task1/FGCT4016_Week1_Task1.uproject"  -IgnoreJunk
+Log file: C:\Users\2403782\AppData\Local\UnrealBuildTool\Log.txt
+Using 'git status' to determine working set for adaptive non-unity build (C:\Users\2403782\Documents\GitHub\FGCT4016_Week1_UnrealProject).
+Creating makefile for FGCT4016_Week1_Task1Editor (.uproject file is newer)
+Parsing headers for FGCT4016_Week1_Task1Editor
+  Running Internal UnrealHeaderTool C:\Users\2403782\Documents\GitHub\FGCT4016_Week1_UnrealProject\FGCT4016_Week1_Task1\FGCT4016_Week1_Task1.uproject C:\Users\2403782\Documents\GitHub\FGCT4016_Week1_UnrealProject\FGCT4016_Week1_Task1\Intermediate\Build\Win64\FGCT4016_Week1_Task1Editor\Development\FGCT4016_Week1_Task1Editor.uhtmanifest -WarningsAsErrors -installed
+Total of 4 written
+Reflection code generated for FGCT4016_Week1_Task1Editor in 4.4185467 seconds
+Building FGCT4016_Week1_Task1Editor...
+Using Visual Studio 2022 14.38.33145 toolchain (C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.38.33130) and Windows 10.0.22621.0 SDK (C:\Program Files (x86)\Windows Kits\10).
+[Adaptive Build] Excluded from FGCT4016_Week1_Task1 unity file: TestActor.cpp
+Determining max actions to execute in parallel (16 physical cores, 24 logical cores)
+  Executing up to 16 processes, one per physical core
+  Requested 1.5 GB memory per action, 12.68 GB available: limiting max parallel actions to 8
+Using Unreal Build Accelerator local executor to run 9 action(s)
+  Storage capacity 40Gb
+UbaSessionServer - Failed to delete directory C:\ProgramData\Epic\UnrealBuildAccelerator\sessions\251204_105650\log (Access is denied.)
+UbaSessionServer - Failed to delete directory C:\ProgramData\Epic\UnrealBuildAccelerator\sessions\251204_105650\temp (Access is denied.)
+---- Starting trace: 260202_110748 ----
+UbaServer - Listening on 0.0.0.0:1345
+------ Building 9 action(s) started ------
+[1/9] Resource Default.rc2
+[2/9] Compile [x64] SharedPCH.UnrealEd.Project.ValApi.ValExpApi.Cpp20.cpp
+[3/9] Compile [x64] PerModuleInline.gen.cpp
+[4/9] Compile [x64] FGCT4016_Week1_Task1.cpp
+[5/9] Compile [x64] TestActor.cpp
+[6/9] Compile [x64] Module.FGCT4016_Week1_Task1.gen.cpp
+[7/9] Link [x64] UnrealEditor-FGCT4016_Week1_Task1-3565.lib
+[8/9] Link [x64] UnrealEditor-FGCT4016_Week1_Task1-3565.dll
+[9/9] WriteMetadata FGCT4016_Week1_Task1Editor.target (UBA disabled)
+Trace written to file C:/Users/2403782/AppData/Local/UnrealBuildTool/Log.uba with size 6.7kb
+Total time in Unreal Build Accelerator local executor: 32.71 seconds
+
+Result: Succeeded
+Total execution time: 41.32 seconds
+
+[2026.02.02-11.08.21:041][524]CompilerResultsLog: Using bundled DotNet SDK version: 8.0.300 win-x64
+[2026.02.02-11.08.21:041][524]CompilerResultsLog: Running UnrealBuildTool: dotnet "..\..\Engine\Binaries\DotNET\UnrealBuildTool\UnrealBuildTool.dll" -ModuleWithSuffix=FGCT4016_Week1_Task1,3565 FGCT4016_Week1_Task1Editor Win64 Development -Project="C:/Users/2403782/Documents/GitHub/FGCT4016_Week1_UnrealProject/FGCT4016_Week1_Task1/FGCT4016_Week1_Task1.uproject" "C:/Users/2403782/Documents/GitHub/FGCT4016_Week1_UnrealProject/FGCT4016_Week1_Task1/FGCT4016_Week1_Task1.uproject"  -IgnoreJunk
+[2026.02.02-11.08.21:041][524]CompilerResultsLog: Log file: C:\Users\2403782\AppData\Local\UnrealBuildTool\Log.txt
+[2026.02.02-11.08.21:041][524]CompilerResultsLog: Using 'git status' to determine working set for adaptive non-unity build (C:\Users\2403782\Documents\GitHub\FGCT4016_Week1_UnrealProject).
+[2026.02.02-11.08.21:041][524]CompilerResultsLog: Creating makefile for FGCT4016_Week1_Task1Editor (.uproject file is newer)
+[2026.02.02-11.08.21:041][524]CompilerResultsLog: Parsing headers for FGCT4016_Week1_Task1Editor
+[2026.02.02-11.08.21:041][524]CompilerResultsLog:   Running Internal UnrealHeaderTool C:\Users\2403782\Documents\GitHub\FGCT4016_Week1_UnrealProject\FGCT4016_Week1_Task1\FGCT4016_Week1_Task1.uproject C:\Users\2403782\Documents\GitHub\FGCT4016_Week1_UnrealProject\FGCT4016_Week1_Task1\Intermediate\Build\Win64\FGCT4016_Week1_Task1Editor\Development\FGCT4016_Week1_Task1Editor.uhtmanifest -WarningsAsErrors -installed
+[2026.02.02-11.08.21:041][524]CompilerResultsLog: Total of 4 written
+[2026.02.02-11.08.21:041][524]CompilerResultsLog: Reflection code generated for FGCT4016_Week1_Task1Editor in 4.4185467 seconds
+[2026.02.02-11.08.21:041][524]CompilerResultsLog: Building FGCT4016_Week1_Task1Editor...
+[2026.02.02-11.08.21:041][524]CompilerResultsLog: Using Visual Studio 2022 14.38.33145 toolchain (C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.38.33130) and Windows 10.0.22621.0 SDK (C:\Program Files (x86)\Windows Kits\10).
+[2026.02.02-11.08.21:041][524]CompilerResultsLog: [Adaptive Build] Excluded from FGCT4016_Week1_Task1 unity file: TestActor.cpp
+[2026.02.02-11.08.21:041][524]CompilerResultsLog: Determining max actions to execute in parallel (16 physical cores, 24 logical cores)
+[2026.02.02-11.08.21:041][524]CompilerResultsLog:   Executing up to 16 processes, one per physical core
+[2026.02.02-11.08.21:041][524]CompilerResultsLog:   Requested 1.5 GB memory per action, 12.68 GB available: limiting max parallel actions to 8
+[2026.02.02-11.08.21:041][524]CompilerResultsLog: Using Unreal Build Accelerator local executor to run 9 action(s)
+[2026.02.02-11.08.21:041][524]CompilerResultsLog:   Storage capacity 40Gb
+[2026.02.02-11.08.21:041][524]CompilerResultsLog: UbaSessionServer - Failed to delete directory C:\ProgramData\Epic\UnrealBuildAccelerator\sessions\251204_105650\log (Access is denied.)
+[2026.02.02-11.08.21:041][524]CompilerResultsLog: UbaSessionServer - Failed to delete directory C:\ProgramData\Epic\UnrealBuildAccelerator\sessions\251204_105650\temp (Access is denied.)
+[2026.02.02-11.08.21:041][524]CompilerResultsLog: ---- Starting trace: 260202_110748 ----
+[2026.02.02-11.08.21:041][524]CompilerResultsLog: UbaServer - Listening on 0.0.0.0:1345
+[2026.02.02-11.08.21:041][524]CompilerResultsLog: ------ Building 9 action(s) started ------
+[2026.02.02-11.08.21:041][524]CompilerResultsLog: [1/9] Resource Default.rc2
+[2026.02.02-11.08.21:041][524]CompilerResultsLog: [2/9] Compile [x64] SharedPCH.UnrealEd.Project.ValApi.ValExpApi.Cpp20.cpp
+[2026.02.02-11.08.21:041][524]CompilerResultsLog: [3/9] Compile [x64] PerModuleInline.gen.cpp
+[2026.02.02-11.08.21:041][524]CompilerResultsLog: [4/9] Compile [x64] FGCT4016_Week1_Task1.cpp
+[2026.02.02-11.08.21:041][524]CompilerResultsLog: [5/9] Compile [x64] TestActor.cpp
+[2026.02.02-11.08.21:041][524]CompilerResultsLog: [6/9] Compile [x64] Module.FGCT4016_Week1_Task1.gen.cpp
+[2026.02.02-11.08.21:041][524]CompilerResultsLog: [7/9] Link [x64] UnrealEditor-FGCT4016_Week1_Task1-3565.lib
+[2026.02.02-11.08.21:041][524]CompilerResultsLog: [8/9] Link [x64] UnrealEditor-FGCT4016_Week1_Task1-3565.dll
+[2026.02.02-11.08.21:041][524]CompilerResultsLog: [9/9] WriteMetadata FGCT4016_Week1_Task1Editor.target (UBA disabled)
+[2026.02.02-11.08.21:041][524]CompilerResultsLog: Trace written to file C:/Users/2403782/AppData/Local/UnrealBuildTool/Log.uba with size 6.7kb
+[2026.02.02-11.08.21:041][524]CompilerResultsLog: Total time in Unreal Build Accelerator local executor: 32.71 seconds
+[2026.02.02-11.08.21:041][524]CompilerResultsLog: 
+[2026.02.02-11.08.21:041][524]CompilerResultsLog: Result: Succeeded
+[2026.02.02-11.08.21:042][524]CompilerResultsLog: Total execution time: 41.32 seconds
+[2026.02.02-11.08.21:042][524]LogMainFrame: MainFrame: Module compiling took 41.661 seconds
+[2026.02.02-11.08.21:046][524]Unloading module before compile.
+[2026.02.02-11.08.21:046][524]Module being reloaded does not support dynamic unloading -- abandoning existing loaded module so that we can load the recompiled version!
+[2026.02.02-11.08.21:046][524]Reloading module FGCT4016_Week1_Task1 after successful compile.
+[2026.02.02-11.08.21:059][524]LogClass: Could not find existing package /Script/FGCT4016_Week1_Task1 for reload of class TestActor, assuming a new package.
+[2026.02.02-11.08.21:111][524]LogUObjectHash: Compacting FUObjectHashTables data took   0.77ms
+[2026.02.02-11.08.21:112][524]Display: Reload/Re-instancing Complete: 1 package new, 1 class new
+[2026.02.02-11.08.21:496][524]LogSlate: Window 'Add C++ Class' being destroyed
+[2026.02.02-11.08.21:627][524]LogAutomationController: Ignoring very large delta of 42.32 seconds in calls to FAutomationControllerManager::Tick() and not penalizing unresponsive tests
+[2026.02.02-11.08.32:067][651]LogUdpMessaging: Warning: Waiting for ack too long. Re-sending 2 segments. Attempt 1 out of 16 tries.
+[2026.02.02-11.08.32:067][651]LogUdpMessaging: Warning: Waiting for ack too long. Re-sending 1 segments. Attempt 1 out of 16 tries.
+[2026.02.02-11.10.25:085][990]LogUdpMessaging: Warning: Waiting for ack too long. Re-sending 2 segments. Attempt 1 out of 16 tries.
+[2026.02.02-11.10.25:085][990]LogUdpMessaging: Warning: Waiting for ack too long. Re-sending 1 segments. Attempt 1 out of 16 tries.
+[2026.02.02-11.10.53:729][ 75]LogUObjectHash: Compacting FUObjectHashTables data took   1.42ms
+[2026.02.02-11.10.53:736][ 75]LogSavePackage: Moving output files for package: /Temp/Autosaves/Temp/Untitled_1_Auto1
+[2026.02.02-11.10.53:736][ 75]LogSavePackage: Moving '../../../../../../Users/2403782/Documents/GitHub/FGCT4016_Week1_UnrealProject/FGCT4016_Week1_Task1/Saved/Untitled_1_Auto13E0D1BA244E065B4B80ADFA59AD1BEF2.tmp' to '../../../../../../Users/2403782/Documents/GitHub/FGCT4016_Week1_UnrealProject/FGCT4016_Week1_Task1/Saved/Autosaves/Temp/Untitled_1_Auto1.umap'
+[2026.02.02-11.10.53:737][ 75]LogFileHelpers: Editor autosave (incl. external actors) for '/Temp/Untitled_1' took 0.023
+[2026.02.02-11.10.53:737][ 75]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.023
+[2026.02.02-11.11.25:004][169]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 637.550354
+[2026.02.02-11.11.26:006][172]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.02.02-11.11.26:006][173]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 638.217529, Update Interval: 346.111023
+[2026.02.02-11.13.33:599][573]LogSlate: Took 0.003169 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2026.02.02-11.17.19:723][874]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 992.275146
+[2026.02.02-11.17.20:725][877]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.02.02-11.17.20:725][877]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 992.947021, Update Interval: 349.648743
+[2026.02.02-11.23.24:505][829]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 1357.057983
+[2026.02.02-11.23.25:505][832]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.02.02-11.23.25:505][832]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 1357.727661, Update Interval: 327.450165
+[2026.02.02-11.29.24:764][809]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 1717.317261
+[2026.02.02-11.29.25:763][812]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.02.02-11.29.25:763][812]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 1717.983521, Update Interval: 307.249359
+[2026.02.02-11.30.28:603][216]Running C:/Program Files/Epic Games/5.6/Engine/Build/BatchFiles/Build.bat  -projectfiles -project="C:/Users/2403782/Documents/GitHub/FGCT4016_Week1_UnrealProject/FGCT4016_Week1_Task1/FGCT4016_Week1_Task1.uproject" -game -rocket -progress
+[2026.02.02-11.30.28:712][216]Using bundled DotNet SDK version: 8.0.300 win-x64
+[2026.02.02-11.30.28:712][216]Running UnrealBuildTool: dotnet "..\..\Engine\Binaries\DotNET\UnrealBuildTool\UnrealBuildTool.dll" -projectfiles -project="C:/Users/2403782/Documents/GitHub/FGCT4016_Week1_UnrealProject/FGCT4016_Week1_Task1/FGCT4016_Week1_Task1.uproject" -game -rocket -progress
+[2026.02.02-11.30.29:113][216]Log file: C:\Users\2403782\AppData\Local\UnrealBuildTool\Log_GPF.txt
+[2026.02.02-11.30.29:514][216]
+[2026.02.02-11.30.29:514][216]Some Platforms were skipped due to invalid SDK setup: Android, TVOS.
+[2026.02.02-11.30.29:514][216]See the log file for detailed information
+[2026.02.02-11.30.29:514][216]
+[2026.02.02-11.30.29:514][216]
+[2026.02.02-11.30.29:514][216]Generating VisualStudioCode project files:
+[2026.02.02-11.30.29:514][216]Discovering modules, targets and source code for project...
+[2026.02.02-11.30.29:514][216]Unable to rename C:\Program Files\Epic Games\5.6\Engine\Intermediate\ProjectFiles\PrimaryProjectPath.txt to C:\Program Files\Epic Games\5.6\Engine\Intermediate\ProjectFiles\PrimaryProjectPath.txt.old
+[2026.02.02-11.30.29:615][216]Adding projects for all targets...
+[2026.02.02-11.30.30:116][216]Adding projects for all targets took 0.54s
+[2026.02.02-11.30.30:116][216]Adding projects for all game projects took 0.00s
+[2026.02.02-11.30.30:418][216]Adding projects for all modules took 0.28s
+[2026.02.02-11.30.30:618][216]Compiling Rules Assemblies
+[2026.02.02-11.30.30:619][216]Compiling Rules Assemblies 100%
+[2026.02.02-11.30.30:619][216]Creating Build Targets
+[2026.02.02-11.30.31:726][216]Creating Build Targets 100%
+[2026.02.02-11.30.31:726][216]Creating Build Targets took 1.09s
+[2026.02.02-11.30.31:726][216]Binding IntelliSense data...
+[2026.02.02-11.30.41:685][216]Binding IntelliSense data... 100%
+[2026.02.02-11.30.41:685][216]Binding IntelliSense data took 9.97s
+[2026.02.02-11.30.41:685][216]Writing project files...
+[2026.02.02-11.30.43:093][216]Writing project files... 67%
+[2026.02.02-11.30.43:093][216]Writing project files took 1.40s
+[2026.02.02-11.30.43:093][216]Unhandled exception: UnauthorizedAccessException: Access to the path 'C:\Program Files\Epic Games\5.6\.vscode' is denied.
+[2026.02.02-11.30.43:093][216]   at System.IO.FileSystem.CreateDirectory(String fullPath, Byte[] securityDescriptor)
+[2026.02.02-11.30.43:093][216]   at System.IO.Directory.CreateDirectory(String path)
+[2026.02.02-11.30.43:093][216]   at EpicGames.Core.DirectoryReference.CreateDirectory(DirectoryReference location) in D:\build\++UE5\Sync\Engine\Source\Programs\Shared\EpicGames.Core\DirectoryReference.cs:line 326
+[2026.02.02-11.30.43:093][216]   at UnrealBuildTool.VSCodeProjectFileGenerator.WriteCppPropertiesFile(DirectoryReference OutputDirectory, ProjectData Projects) in D:\build\++UE5\Sync\Engine\Source\Programs\UnrealBuildTool\ProjectFiles\VisualStudioCode\VSCodeProjectFileGenerator.cs:line 598
+[2026.02.02-11.30.43:093][216]   at UnrealBuildTool.VSCodeProjectFileGenerator.WritePrimaryProjectFile(ProjectFile UBTProject, PlatformProjectGeneratorCollection PlatformProjectGenerators, ILogger Logger) in D:\build\++UE5\Sync\Engine\Source\Programs\UnrealBuildTool\ProjectFiles\VisualStudioCode\VSCodeProjectFileGenerator.cs:line 296
+[2026.02.02-11.30.43:093][216]   at UnrealBuildTool.ProjectFileGenerator.WriteProjectFiles(PlatformProjectGeneratorCollection PlatformProjectGenerators, ILogger Logger) in D:\build\++UE5\Sync\Engine\Source\Programs\UnrealBuildTool\ProjectFiles\ProjectFileGenerator.cs:line 3463
+[2026.02.02-11.30.43:093][216]   at UnrealBuildTool.ProjectFileGenerator.GenerateProjectFiles(PlatformProjectGeneratorCollection PlatformProjectGenerators, String[] Arguments, ILogger Logger) in D:\build\++UE5\Sync\Engine\Source\Programs\UnrealBuildTool\ProjectFiles\ProjectFileGenerator.cs:line 1413
+[2026.02.02-11.30.43:093][216]   at UnrealBuildTool.ProjectFileGenerator.GenerateProjectFiles(PlatformProjectGeneratorCollection PlatformProjectGenerators, String[] Arguments, Boolean bCacheDataForEditor, ILogger Logger) in D:\build\++UE5\Sync\Engine\Source\Programs\UnrealBuildTool\ProjectFiles\ProjectFileGenerator.cs:line 903
+[2026.02.02-11.30.43:093][216]   at UnrealBuildTool.GenerateProjectFilesMode.ExecuteAsync(CommandLineArguments Arguments, ILogger Logger) in D:\build\++UE5\Sync\Engine\Source\Programs\UnrealBuildTool\Modes\GenerateProjectFilesMode.cs:line 268
+[2026.02.02-11.30.43:093][216]   at UnrealBuildTool.UnrealBuildTool.Main(String[] ArgumentsArray) in D:\build\++UE5\Sync\Engine\Source\Programs\UnrealBuildTool\UnrealBuildTool.cs:line 653
+[2026.02.02-11.30.43:093][216]
+[2026.02.02-11.30.43:093][216]Result: Failed (OtherCompilationError)
+[2026.02.02-11.30.43:093][216]Total execution time: 14.25 seconds
+[2026.02.02-11.30.50:384][216]LogSlate: Window 'Refresh Project' being destroyed
+[2026.02.02-11.30.50:399][216]LogAutomationController: Ignoring very large delta of 21.85 seconds in calls to FAutomationControllerManager::Tick() and not penalizing unresponsive tests
+[2026.02.02-11.35.08:593][145]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 2061.148193
+[2026.02.02-11.35.09:593][148]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.02.02-11.35.09:593][148]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 2061.814941, Update Interval: 354.396790
+[2026.02.02-11.41.59:664][378]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 2472.220459
+[2026.02.02-11.42.00:664][381]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.02.02-11.42.00:664][381]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 2472.887451, Update Interval: 313.861511
+[2026.02.02-11.47.45:414][415]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 2817.969482
+[2026.02.02-11.47.46:394][419]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.02.02-11.47.46:395][419]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 2818.618896, Update Interval: 336.915192
+[2026.02.02-11.53.54:023][646]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 3186.582764
+[2026.02.02-11.53.55:023][649]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.02.02-11.53.55:023][649]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 3187.249512, Update Interval: 358.478333
+[2026.02.02-11.55.31:770][227]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/MyTestActor.MyTestActor
+[2026.02.02-11.55.31:771][227]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_2
+[2026.02.02-11.55.31:867][227]LogStreaming: Display: FlushAsyncLoading(476): 1 QueuedPackages, 0 AsyncPackages
+[2026.02.02-11.55.33:022][227]LogStaticMesh: Display: Building static mesh PhAT_FloorBox (Required Memory Estimate: 0.024887 MB)...
+[2026.02.02-11.55.33:031][227]LogStaticMesh: Built static mesh [0.01s] /Engine/EditorMeshes/PhAT_FloorBox.PhAT_FloorBox
+[2026.02.02-11.55.33:111][227]LogSlate: Window 'Add Blueprint Class' being destroyed
+[2026.02.02-11.57.40:979][333]LogSlate: Window 'MyTestActor' being destroyed
+[2026.02.02-11.57.40:984][333]LogSlate: Window 'MyTestActor' being destroyed
+[2026.02.02-11.57.40:991][333]LogWorld: UWorld::CleanupWorld for World_2, bSessionEnded=true, bCleanupResources=true
+[2026.02.02-11.57.40:991][333]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.02.02-11.57.41:113][334]LogUObjectHash: Compacting FUObjectHashTables data took   1.66ms
+[2026.02.02-11.57.42:220][455]LogUObjectHash: Compacting FUObjectHashTables data took   1.72ms
+[2026.02.02-11.57.42:221][455]LogFileHelpers: Editor autosave (incl. external actors) for '/Temp/Untitled_1' took 0.033
+[2026.02.02-11.57.42:222][455]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/MyTestActor] ([2] browsable assets)...
+[2026.02.02-11.57.42:222][455]OBJ SavePackage: Finished generating thumbnails for package [/Game/MyTestActor]
+[2026.02.02-11.57.42:225][455]LogWorldPartition: Can't find class descriptor '/Game/MyTestActor.MyTestActor_C' for saving '/Game/MyTestActor.MyTestActor_C'
+[2026.02.02-11.57.42:226][455]LogWorldPartition: Can't find class descriptor '/Game/MyTestActor.MyTestActor_C' for saving '/Game/MyTestActor.MyTestActor_C'
+[2026.02.02-11.57.42:229][455]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/MyTestActor_Auto2
+[2026.02.02-11.57.42:229][455]LogSavePackage: Moving '../../../../../../Users/2403782/Documents/GitHub/FGCT4016_Week1_UnrealProject/FGCT4016_Week1_Task1/Saved/MyTestActor_Auto2199225754BEE07CC901F5DBF63DBF62A.tmp' to '../../../../../../Users/2403782/Documents/GitHub/FGCT4016_Week1_UnrealProject/FGCT4016_Week1_Task1/Saved/Autosaves/Game/MyTestActor_Auto2.uasset'
+[2026.02.02-11.57.42:230][455]LogFileHelpers: Auto-saving content packages took 0.010
+[2026.02.02-11.57.46:695][931]LogUObjectHash: Compacting FUObjectHashTables data took   1.73ms
+[2026.02.02-11.57.46:853][931]LogSlate: Last resort fallback font was requested. Font: '<unknown>', Character: '<unknown>'
+[2026.02.02-11.57.46:857][931]LogSlate: Took 0.003886 seconds to synchronously load lazily loaded font '../../../Engine/Content/SlateDebug/Fonts/LastResort.ttf' (5269K)
+[2026.02.02-11.57.48:502][931]LogSlate: Window 'Delete Assets' being destroyed
+[2026.02.02-11.57.48:537][931]LogUObjectHash: Compacting FUObjectHashTables data took   1.53ms
+[2026.02.02-11.57.48:560][931]LogUObjectHash: Compacting FUObjectHashTables data took   1.54ms
+[2026.02.02-11.57.48:580][931]LogUObjectHash: Compacting FUObjectHashTables data took   0.46ms
+[2026.02.02-11.57.51:019][193]LogSlate: Window 'Content Browser' being destroyed
+[2026.02.02-11.57.51:024][193]LogSlate: Window 'Content Browser' being destroyed
+[2026.02.02-11.59.07:864][531]LogUdpMessaging: Warning: Waiting for ack too long. Re-sending 1 segments. Attempt 1 out of 16 tries.
+[2026.02.02-11.59.07:864][531]LogUdpMessaging: Warning: Waiting for ack too long. Re-sending 2 segments. Attempt 1 out of 16 tries.
+[2026.02.02-11.59.07:963][531]LogUdpMessaging: Warning: Waiting for ack too long. Re-sending 2 segments. Attempt 2 out of 16 tries.
+[2026.02.02-11.59.07:963][531]LogUdpMessaging: Warning: Waiting for ack too long. Re-sending 1 segments. Attempt 2 out of 16 tries.
+[2026.02.02-11.59.08:063][531]LogUdpMessaging: Warning: Waiting for ack too long. Re-sending 2 segments. Attempt 3 out of 16 tries.
+[2026.02.02-11.59.08:063][531]LogUdpMessaging: Warning: Waiting for ack too long. Re-sending 1 segments. Attempt 3 out of 16 tries.
